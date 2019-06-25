@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-seo-tag
+title: Space 404 | Trystan Eveno
+description: Just a nice error page made with pure CSS.
+url: https://maitremanuel.github.io/space_404/
+author: Trystan Eveno
+twitter:
+    username: Maitre_Manuel
+social:
+    name: Trystan Eveno
+    links:
+        - https://www.linkedin.com/in/trystan-eveno/
+        - https://twitter.com/Maitre_Manuel
+        - https://github.com/MaitreManuel
+        - http://www.doyoubuzz.com/trystan-eveno
+lang: fr
